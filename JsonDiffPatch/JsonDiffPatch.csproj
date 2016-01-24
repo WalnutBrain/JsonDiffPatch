@@ -75,7 +75,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Tavis.JsonPointer">
-      <HintPath>..\packages\Tavis.JsonPointer.0.5.0\lib\portable-wp71+sl4+netcore45+net4\Tavis.JsonPointer.dll</HintPath>
+      <HintPath>..\Libraries\Tavis.JsonPointer.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
